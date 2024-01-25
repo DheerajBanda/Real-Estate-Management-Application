@@ -6,16 +6,16 @@
 <h2>Features</h2>
 <ol>
   <li>
-    <strong Property Listing:> Users can list their properties on the platform, providing details such as property type, location, size, and price.
+    <strong>Property Listing:</strong> Users can list their properties on the platform, providing details such as property type, location, size, and price.
   </li>
   <li>
-    **Property Search:** The application allows users to search for properties based on various criteria, making it easy to find a property that meets their requirements.
+    <strong>Property Search:</strong> The application allows users to search for properties based on various criteria, making it easy to find a property that meets their requirements.
   </li>
   <li>
-    **User Authentication:** Secure user authentication ensures that only authorized users can access and manage their property listings.
+    <strong>User Authentication:</strong> Secure user authentication ensures that only authorized users can access and manage their property listings.
   </li>
   <li>
-    **Transaction Management:** The application includes functionality for managing real estate transactions, allowing users to track the progress of deals.
+    <strong>Transaction Management:</strong> The application includes functionality for managing real estate transactions, allowing users to track the progress of deals.
   </li>
 </ol>
 
