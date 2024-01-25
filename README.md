@@ -1,9 +1,9 @@
 # Real-Estate-Management-Application
 
-<h1>Overview</h1>
+<h2>Overview</h2>
 <p>RealEstateWebApp is a Java-based web application that facilitates real estate management and transactions. This project encompasses the entire development process, starting from the Entity-Relationship (ER) diagram and culminating in a functional Java application. The application is designed to provide a user-friendly interface for managing real estate properties, including features for property listing, viewing, and transaction management.</p>
 
-<h1>Features</h1>
+<h2>Features</h2>
 <ol>
   <li>
     **Property Listing:** Users can list their properties on the platform, providing details such as property type, location, size, and price.
@@ -19,7 +19,7 @@
   </li>
 </ol>
 
-<h1>Installation</h1>
+<h2>Installation</h2>
 <p>
   1. Clone the repository <br>
   2. build the application<br>
