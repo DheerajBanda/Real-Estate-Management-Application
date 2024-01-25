@@ -6,7 +6,7 @@
 <h2>Features</h2>
 <ol>
   <li>
-    **Property Listing:** Users can list their properties on the platform, providing details such as property type, location, size, and price.
+    <strong Property Listing:> Users can list their properties on the platform, providing details such as property type, location, size, and price.
   </li>
   <li>
     **Property Search:** The application allows users to search for properties based on various criteria, making it easy to find a property that meets their requirements.
